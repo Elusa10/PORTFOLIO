@@ -183,14 +183,12 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-gray-600 mb-1">Connect professionally</p>
                     <a 
-                      href="www.linkedin.com/in/leslieelusa
-
-" 
+                      href="https://www.linkedin.com/in/leslieelusa/" 
                       target="_blank" 
                       rel="noreferrer"
                       className="font-medium text-gray-800 hover:text-blue-500 transition-colors"
                     >
-                      www.linkedin.com/in/leslieelusa
+                      https://www.linkedin.com/in/leslieelusa/
                     </a>
                   </div>
                 </div>

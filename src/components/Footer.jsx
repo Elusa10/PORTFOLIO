@@ -58,7 +58,7 @@ export default function Footer() {
 
             <motion.a
               whileHover={{ y: -5 }}
-              href="www.linkedin.com/in/leslieelusa"
+              href="https://www.linkedin.com/in/leslieelusa/"
               target="_blank"
               rel="noopener noreferrer"
               className="group"
